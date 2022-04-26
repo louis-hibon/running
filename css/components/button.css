@@ -1,0 +1,35 @@
+.btn-blue {
+
+ font-family: 'Libre Franklin',sans-serif;
+    display: inline-block;
+    max-width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    background-color: #6A75DA;
+    color: #FFFFFF;
+    font-size: 18px;
+    border-radius: 6px;
+    padding: 0 18px;
+    font-weight: bold;
+    height: 45px;
+    cursor: pointer;
+    line-height: 45px;
+    text-align: center;
+    margin: 0;
+    text-decoration: none;
+
+}
+
+a:visited {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+a:link 
+{ 
+ text-decoration:none; 
+} 
+
+
+   
+ 
